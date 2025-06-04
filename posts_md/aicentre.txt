@@ -1,0 +1,571 @@
+./2025-05-02-ai-ambassadors-staff-gateway.md
+---
+---
+title: "AI Ambassadors | Staff Gateway"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-ambassadors
+---
+*Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences*
+
+---
+./2025-05-02-ai-and-ml-competency-centre-faqs.md
+---
+---
+title: "AI and ML Competency Centre, FAQs"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-faqs-and-guides
+---
+Welcome to our Frequently Asked Questions (FAQs) page. Here, you'll find answers to the most common questions about AI at Oxford and guides to ensure you are making the most of our service. This page will provide you with quick and easy access to the information you need. If you can't find the answer you're looking for, please don't hesitate to contact our team for further support.
+
+#### Table of Contents:
+
+[ChatGPT and Microsoft Copilot Licences](#ChatGPT%20and%20Microsoft%20Copilot%20Licences)
+
+[Troubleshooting ChatGPT Edu Login Issues](#Troubleshooting%20ChatGPT%20Enterprise%20Login%20Issues)
+
+[For SBS Users](#For%20SBS%20Users)
+
+[For Non-SBS Users](#For%20Non-SBS%20Users)
+
+[API Access](#API%20Access)
+
+[Getting started with AI Coding Assistants](#Getting%20started%20with%20AI%20coding%20assistants)
+
+ChatGPT and Microsoft Copilot Licences
+--------------------------------------
+
+### ChatGPT Edu
+
+#### Can I request a ChatGPT licence?
+
+If your department is happy to fund ChatGPT licences, the centre can facilitate your order. At this time, tools purchased through the AI and ML Competency Centre are covered by a data processing agreement with OpenAI to ensure compliance with data protection regulations. To order ChatGPT Edu licences, you will need the agreement of your budget approver, and know how many staff you wish to assign licences. Please [fill out this form](https://unioxfordnexus.sharepoint.com/:l:/s/DGTR-CompetencyCentres/FKmBpPaQ61hGuj1UB0FwY6wB9PzTMfmHhSecfoPfckjJwQ?nav=ZjdiNTlhY2EtYjM3MS00MTUyLThhODUtYjg3YmJiMjlkOTU2) for departments or this [form for colleges](https://unioxfordnexus.sharepoint.com/:l:/s/DGTR-CompetencyCentres/FNzMYoPR4cVGn7hyVdKe78gB7CKdVVSfwJkzP8Kfe1SK5g?nav=ZDBjZDU0NDktMjllNy00ODRiLTlhNTktN2Y4NDFhMTdkNjg2).
+
+Please note that using ChatGPT Free, Plus, or Team versions is possible, but these licences are not supported by the Competency Centre. Licences must be purchased according to your department’s local purchasing rules. Additionally, for data compliance, you must not use these tools with confidential and personal data, since they may not be fully covered under the data processing agreement. Ensure your use aligns with Oxford's information security guidelines by reviewing the following:
+
+#### How long does it take to get my licence after I submit a form?
+
+We are aiming to approve licences on a weekly basis, but we will review this cadence on an ongoing basis.
+
+#### Can I charge my licence cost to a project?
+
+No. There are no plans to allow charging to a project and a GL Cost Centre code will be required.
+
+#### Can students buy a licence directly?
+
+No, only departments can buy licences on behalf of students using their GL Cost Centre code.
+
+#### Can the Competency Centre see my conversations if I purchase a licence through them?
+
+No, we cannot see your conversations - whatever you say to ChatGPT is private unless you choose to share this with others.
+
+#### Can we get a shared account to use, e.g., for a lab, so several people can use it?
+
+ChatGPT Edu does not allow access from shared email accounts, and each individual needs a separate account. It is, however, possible to share conversations with colleagues.
+
+### Microsoft 365 Copilot
+
+#### Can I request a Copilot licence?
+
+For those interested in obtaining a Microsoft 365 Copilot licence, team-level purchases are possible. Please check with your departmental administrator to confirm whether your team can finance this. The cost per licence is £26 per head, and procurement will be managed centrally. To order Copilot licences, you will need the agreement of your budget approver. Please [fill out this form](https://unioxfordnexus.sharepoint.com/:l:/s/DGTR-CompetencyCentres/FEbYTsUBaCdPhUmncfVAQdYBjPPUgdphWgg-KE6t8vKorw?nav=ZGQ3ZGNlOTYtMzRmMC00ODNmLWFlZWUtOWViM2NiY2MxNWIz) for departments or this [form for colleges](https://unioxfordnexus.sharepoint.com/:l:/s/DGTR-CompetencyCentres/FEJJuw60GY1Dg8nhwq5jipABC4e41eNxMsptoa_5TDOUeQ?nav=M2VhZjhlNjItMjk1Yi00YjdkLWFiZmMtM2VlMzI2ODlmOWYw).
+
+#### Where do I access Copilot once I have a licence?
+
+Microsoft 365 Copilot will show up in various places once your licence allocation is active:
+
+* Teams, on the desktop and online
+* Nexus 365 online apps (Outlook, Word, Excel, PowerPoint, Loop, Forms)
+* Office 365 desktop apps (Copilot will not appear in older versions, such as Office 2019)
+* Copilot web assistant
+
+(Note that to use Copilot in Teams meetings you will need to [request the ability to record in Teams](https://forms.microsoft.com/e/hhKcgydbu2) for your account, and then [enable transcription](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-note-taking-in-microsoft-teams-with-meeting/ba-p/2242782) in the meeting).
+
+#### I am no longer using my licence, can I swap it with a colleague or cancel it?
+
+You cannot cancel your licence midway through the year, but it can be reassigned to someone else in your team as long as they share the same GL/cost centre. If you’d like to reassign your current licence, please [get in touch](mailto:%20aimlcompetencycentre@it.ox.ac.uk).
+
+If someone in your team leaves and you wish to reassign or rescind their licence, please [contact us](mailto:%20aimlcompetencycentre@it.ox.ac.uk).
+
+[Back to top](#Top%20of%20page)
+
+Troubleshooting ChatGPT Edu Login Issues
+----------------------------------------
+
+#### I'm unable to log into the ChatGPT Edu workspace. What should I do first?
+
+Check OpenAI's Status Page: Visit [OpenAI's status page](https://status.openai.com/) to ensure there isn't a login outage. If there's an outage, you may need to wait until the service is restored.
+
+Confirm Workspace Membership: Make sure you are a member of our enterprise workspace. If you're unsure, check your email for an invitation or reach out to [our team](mailto:%20aimlcompetencycentre@it.ox.ac.uk).
+
+#### I can no longer access my ChatGPT Edu account. What should I do?
+
+Due to a change in the OpenAI configuration, all ChatGPT Edu users who have their accounts associated with an department email rather than SSO will now have to login with their email as username and password. If you think this applies to you, please follow the steps outlined in our [Troubleshooting ChatGPT Edu Login Issues](https://staff.admin.ox.ac.uk/troubleshooting-chatgpt-edu-login-problems) page.
+
+### For SBS (Said Business School) Users:
+
+#### How should I log in to the ChatGPT Edu workspace?
+
+Use your departmental email address and password. SBS users cannot use Single Sign-On (SSO) to access the workspace.
+
+#### I forgot my password or previously tried logging in with SSO. What should I do?
+
+Reset Password: Click the "Forgot Password" link on the login page to reset your password.
+
+#### I originally created my ChatGPT account using SSO but I'm an SBS user. How can I switch to password authentication?
+
+Contact OpenAI Support: Reach out to OpenAI directly via the OpenAI Help Center and request to switch your authentication method from SSO to password. If they object, mention that the enterprise workspace is on a different ID provider, so you have to login via password.
+
+### For Non-SBS Users:
+
+#### How should I log in to the ChatGPT Edu workspace?
+
+Use Single Sign-On (SSO): You must log in using SSO. Enter your email address (departmental address), and you should be given an option to log in via SSO. Follow the SSO login instructions after that.
+
+#### I can't log in
+
+a. Ensure your departmental email is correctly mapped to your UPN. Misalignment can cause login issues. You may need to reach out to your IT department to confirm or update this mapping.
+
+b. Correct Email Address: Ensure you're using the correct email address to log in. If you were invited using your User Principal Name (UPN) address, you must use that, not your departmental email address.
+
+c. Switch to UPN address: If you originally joined the enterprise workspace using your department address, but when trying to login via SSO, get an error message saying that you cannot access any workspaces, you may need to be reinvited to the enterprise workspace over your UPN address. Contact the [AI and ML Competency Centre](mailto:%20aimlcompetencycentre@it.ox.ac.uk) to request this switch. **Note:** This will create a new account, and you may lose personal settings and chat history, if you have concerns about that, please raise them in your email, and we will try to find another way.
+
+#### Issues with platform.openai.com:
+
+#### I can't log in or access my projects on platform.openai.com. What should I do?
+
+Contact Administrator: Ask your [administrator](mailto:%20aimlcompetencycentre@it.ox.ac.uk) to remove and re-add you to the organisation's account and your respective projects using your UPN.
+
+#### I've tried all the steps but still can't log in. What should I do next?
+
+[Contact OpenAI Support](https://help.openai.com/en/)
+
+[Back to top](#Top%20of%20page)
+
+API Access
+----------
+
+#### How do I get access to OpenAI API?
+
+We might be able to give you access to the OpenAI API as part of the enterprise agreement.
+
+To request access follow these steps:
+
+* If you would like access to the OpenAI API, please fill out the **request form** [Requesting OpenAI API Access](https://unioxfordnexus.sharepoint.com/:l:/s/ITServices-Competencycentres/FJZ9BOTALbtOsdsx8mL-WekBLoufku2zBasdJBncaf5_qw?nav=ZjVkMTNhZTYtNTNkMS00ZWM4LWEwMDEtMDg3OTRkMDMyYmU1) and explain for which project you intend to use the API.
+* We will be in touch with next steps or follow-up questions.
+* Note that we initially set a **$50 limit per month and project**. If your project requires more extensive API access, please mention it on the form so that we can discuss your project needs. If you notice you need a higher limit for an existing project, please contact us.
+
+#### I am participating in the ChatGPT pilot. How do I get API access?
+
+If you are a participant of the ChatGPT pilot, please note that **access to the OpenAI API is separate from ChatGPT**. The ChatGPT licence provided as part of the pilot does not give you API access. You may request access to the OpenAI API separately as outlined previously.
+
+#### Can I get access to other AI APIs?
+
+The AI and ML Competency Centre **does not currently provide access to other APIs.**
+
+We might explore access to other tools as part of project collaborations. If you have a project idea that fits into the scope of the centre and that might require other AI tools, please fill out the [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkcRi-eOrAFROiMNKcaPnnnlUMVVLMFlQSlRIRzdEQVpKU0s2MUpHUVhCTS4u).
+
+[Back to top](#Top%20of%20page) 
+
+How do I get started with AI Coding Assistants like GitHub Copilot?
+-------------------------------------------------------------------
+
+AI coding assistants have rapidly transformed the landscape of software development, making it easier for developers to design, write, and debug code. Here’s a quick introduction to these tools, their capabilities, limitations, data privacy considerations, and how to access them.
+
+#### Overview of Tools
+
+Large Language Models (LLMs) do not only understand language but also code and can help with a multitude of coding tasks. AI coding assistants, powered by LLMs, can be integrated into development environments to assist with tasks like:
+
+* **Code completion**: Predicting the next line of code or entire functions.
+* **Bug detection and fixes**: Highlighting issues and suggesting improvements.
+* **Documentation**: Generating comments and explaining code snippets.
+* **Testing**: Creating unit tests or validating logic.
+
+Popular tools include:
+
+#### What Coding Assistants Can and Can’t Do
+
+AI coding assistants can significantly improve productivity, but their utility depends on how you use them:
+
+##### What they can do:
+
+* Save time by automating repetitive tasks.
+* Offer suggestions to improve code readability and quality.
+* Provide support for learning new programming languages or frameworks.
+* Assist with brainstorming approaches to complex problems.
+
+##### What they can’t do:
+
+* Guarantee error-free code: AI-generated code may introduce bugs.
+* Replace domain expertise: You’ll need to validate outputs. AI tools can write queries that mess up entire databases.
+* Fully automate software development: While they can generate entire features, oversight is critical.
+
+#### Access GitHub Copilot for Free
+
+As a member of a university, you may be eligible for free access to **GitHub Copilot Individual** under the [GitHub Education](https://education.github.com/) Program. To apply you will first need a create a GitHub account which you can do at [Join GitHub](https://github.com/signup). Once you have a GitHub Account here is how to apply to access GitHub Copilot Individual:
+
+1. Add your university email to your GitHub account under [email settings](https://github.com/settings/emails) if you did not already use your university email to create your GitHub Account.
+2. [Apply to GitHub Education as a teacher](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-teachers/apply-to-github-education-as-a-teacher), explaining how it will support education or learning at the University.
+3. Once approved, follow the steps [Getting free access to Copilot as a student, teacher, or maintainer](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer).
+
+Using GitHub Copilot involves sharing snippets of your code with the GitHub directly, whether or not your already host your code on GitHub, which may raise privacy concerns. Here are key data privacy considerations for GitHub Copilot that you should take into account before deciding to use GitHub Copilot with your codebase:
+
+* **Data used for training GitHub models**: The GitHub Copilot Individual Plan that is available for free through GitHub Education is covered by the [GitHub Data Protection Agreement](https://github.com/customer-terms/github-data-protection-agreement). It is important to note that GitHub do not explicitly state that user data (code, prompts, snippets) is excluded from training GitHub models. Only the GitHub Copilot Business and Enterprise plans explicitly state that user data is not used to train GitHub models. Please see the [GitHub Copilot Trust Center details](https://copilot.github.trust.page/).
+* **Data retained by GitHub for further processing and sharing**: Individual users can disable code snippet retention in their GitHub settings under [Allow GitHub to use my code snippets for product improvements](https://github.com/settings/copilot). The [Managing Copilot policies as an individual subscriber](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber#enabling-or-disabling-prompt-and-suggestion-collection) page provides additional details that confirms this setting controls retention of both prompts and code suggestions. Please note that GitHub have not made any official statement to confirm if disabling this setting is equivalent to the GitHub Copilot Business and Enterprise statement that user data is not used for training GitHub models.
+
+[Back to top](#Top%20of%20page)
+
+---
+./2025-05-02-ai-and-ml-competency-centre-generative-ai-tools.md
+---
+---
+title: "AI and ML Competency Centre, Generative AI Tools"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-generative-ai-tools
+---
+Currently supported tools
+-------------------------
+
+The University is currently actively supporting these two tools. They are available for purchase through IT Services: [Buying Generative AI licence](https://staff.admin.ox.ac.uk/buying-generative-ai-licences)s.
+
+#### ChatGPT Edu
+
+ChatGPT is the best known generative AI application. Its launch in November 2022 sparked the current generative AI revolution and it is arguably the best place to start learning about what generative AI can do. It has some of the most advanced models and most comprehensive features and there are five tiers available to users: free, Plus, Team, Edu and Enterprise – each of these slightly differs regarding the features available, the amount you can use them, and the confidentiality of the data you input.
+
+We are currently running a Pilot with 250 people of ChatGPT Edu and we are exploring ways of expanding access to more people. If you are interested in purchasing a ChatGPT Edu licence, you can [find out more information on our webpage.](https://staff.admin.ox.ac.uk/buying-generative-ai-licences)
+
+#### Microsoft 365 Copilot
+
+Microsoft 365 Copilot is distinct from [Copilot Chat](#Microsoft%20Copilot%20Chat). It is an integration of generative AI models into Exchange, Teams and Microsoft Office. It offers features such as summarising email conversations, creating PowerPoint presentations out of documents, creating meeting minutes, etc. If you are wanting to use Copilot to record or transcribe meetings, you must first request access to do so: [Record a meeting in Teams | IT Help](https://help.it.ox.ac.uk/record-a-meeting-in-teams)
+
+We are currently supporting a pilot programme with 500 users across the University. Microsoft 365 Copilot is also available for departments at the estimated cost of £26/per person/per month. You can find out more about [purchasing Copilot for Microsoft 365 licences on our webpage](https://staff.admin.ox.ac.uk/buying-generative-ai-licences).
+
+#### Microsoft Copilot Chat
+
+Microsoft Copilot (Chat) is a limited alternative to ChatGPT offered for free by Microsoft. When users login to Copilot with their Oxford University SSO, they will be offered additional enterprise protections.
+
+Note: Free Copilot Chat does not offer integration with Microsoft Office.
+
+Note on data
+
+*Both ChatGPT and Copilot, when purchased through the Centre, are suitable for all confidential and personally identifiable information. We have an agreement with both OpenAI and Microsoft to not use the University data for training, finetuning or evaluating their models.*
+
+Tools we are exploring
+----------------------
+
+We are currently exploring a number of generative AI tools for research, teaching and administration.
+
+#### Claude.ai
+
+Claude.ai is the best known alternative to ChatGPT by a company called Anthropic. It is a chatbot with advanced models that are known to be particularly well suited to summarising longer documents, writing and creating computer code.
+
+We are currently trialling Claude internally and supporting the Bodleian iSkills programme in designing training for it.
+
+#### Elicit
+
+Elicit is a specialised type of generative AI application focused on supporting literature reviews. It searches real academic databases based on user questions or allows users to upload their own documents. Instead of a simple chat with individual documents, Elicit can extract information from collections of documents based on prompts.
+
+We are currently trialling Elicit internally and supporting the Bodleian iSkills programme in designing training for it.
+
+---
+./2025-05-02-ai-and-ml-competency-centre-projects.md
+---
+---
+title: "AI and ML Competency Centre, Projects"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-projects
+---
+The AI and ML Competency Centre is supporting projects across the University to enable deployment of commercial AI tools in a controlled and secure environment. See below for more information on what these are and how you can get involved in future projects.
+
+### ChatGPT Enterprise Pilot
+
+We are currently running a pilot project to investigate the suitability of ChatGPT Enterprise. Pilot participants have been taking part in personalised introductory training to get to know the tool. We are also sending out regular communications about new features and use cases in a dedicated community on Teams. [Learn more about the ChatGPT Enterprise pilot](https://staff.admin.ox.ac.uk/generative-ai-enterprise-licence-pilot).
+
+### Microsoft 365 Copilot Pilot
+
+We are currently running a pilot of Microsoft 365 Copilot with 500 participants from across the University. This is intended to discover the suitability of integrated tools within the Microsoft ecosystem.
+
+At the Oxford Digital Festival 2024, pilot participants spoke about how they've been using generative AI tools including Copilot and ChatGPT in their work. You can hear what they said in the [recording of the "AI and me" session](https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b2e01a8d-2e35-4e49-bbba-b23000e92d4c) at the festival (SSO required).
+
+### AI Teaching and Learning Exploration Fund
+
+In partnership with the Centre for Teaching and Learning, the AI and ML Competency Centre have launched the AI Teaching and Learning Exploratory Fund. The fund aims to support the exploration of AI in teaching learning and academic administration at Oxford.
+
+Applications for this fund have now closed. [Learn more about the AI Teaching and Learning Exploratory Fund](https://ctl.ox.ac.uk/ai-teaching-and-learning-exploratory-fund).
+
+[View the list of projects supported through the AI Teaching and Learning Exploratory Fund in 2024-25](https://ctl.ox.ac.uk/2024-25-funded-projects).
+
+Projects will be sharing their insights, experiences, and key findings from the last year at a special event on Wednesday 9 July. [Learn more about the AI Knowledge Exchange Forum](https://ctl.ox.ac.uk/event/ai-knowledge-exchange-forum) - the event is now at full capacity and bookings are now closed.
+
+### Generative AI tools for research
+
+We are supporting the Bodleian iSkills programme in developing a training programme and review generative AI tools suitable for supporting literature research. The main focus of this project are tools such as Elicit, Consensus, and Connected Papers.
+
+### Propose a project
+
+If you would like to propose a project for us to work on with you, please fill out our [expression of interest form](https://bit.ly/contact-aicc).
+
+---
+./2025-05-02-ai-and-ml-competency-centre-resources-for-researchers.md
+---
+---
+title: "AI and ML Competency Centre, Resources for Researchers"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-resources-for-researchers
+---
+### OpenAI Research Grant Funding
+
+As part of the [recently announced collaboration with OpenAI](http://www.ox.ac.uk/node/8776587), Oxford researchers working on collaborative projects with OpenAI may be able to access research grant funding. The process for allocating this funding is still being confirmed. Please keep an eye on this page for updates. We are expecting to announce the process in Trinity Term 2025.
+
+#### Table of contents:
+
+[Licences and API Access](#Licences%20and%20API%20Access)
+
+[Training Resources](#Training%20Resources)
+
+[Project Support We Offer](#Project%20Support%20We%20Offer)
+
+[How we can help you along the way](#How%20we%20can%20help)
+
+[Other networks that may be of interest](#Other%20networks)
+
+Licences and API Access
+-----------------------
+
+Departments and colleges across the University of Oxford can now obtain access via IT services to two major generative AI tools: [ChatGPT Edu](https://openai.com/index/introducing-chatgpt-edu/) and [Microsoft 365 Copilot](https://www.microsoft.com/en-gb/microsoft-365/copilot?msockid=05f1f8d62950675a1279eb74289b6645). These tools empower staff to use the capabilities of generative AI for research, teaching, and administration, all while ensuring data security and seamless collaboration within the University. [See our purchasing page for more details or to purchase licences.](https://staff.admin.ox.ac.uk/buying-generative-ai-licences)
+
+**OpenAI API Access**:
+
+To request access follow these steps:
+
+* If you would like access to the OpenAI API, please fill out the request form [Requesting OpenAI API Access](https://unioxfordnexus.sharepoint.com/:l:/s/ITServices-Competencycentres/FJZ9BOTALbtOsdsx8mL-WekBLoufku2zBasdJBncaf5_qw?nav=ZjVkMTNhZTYtNTNkMS00ZWM4LWEwMDEtMDg3OTRkMDMyYmU1) and explain for which project you intend to use the API.
+* We will be in touch with next steps or follow-up questions. **Due to capacity, it may take up to five working days** for us to review and respond to your request.
+* Note that we initially set a **$50 limit per month and project**. If your project requires more extensive API access, please mention it on the form so that we can discuss your project needs. If you notice you need a higher limit for an existing project, please contact us.
+
+**Coding Assistants**: Accelerate your coding with tools like GitHub Copilot, which is free for academic staff and University students. These tools can help streamline coding tasks and improve productivity. Learn more about coding assistants and how to access GitHub Copilot on [our FAQ page](https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-faqs-and-guides).
+
+If you’re interested in other AI tools or APIs, we can provide advice and support with obtaining licences. Don’t hesitate to reach out to us for assistance via the [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkcRi-eOrAFROiMNKcaPnnnlUMVVLMFlQSlRIRzdEQVpKU0s2MUpHUVhCTS4u).
+
+[Back to top](#Table%20of%20contents) 
+
+Training Resources
+------------------
+
+Whether you’re new to generative AI or looking to scale your experiments, we offer a variety of training opportunities and resources tailored to researchers at the University of Oxford.
+
+##### Basic Training to Use LLMs
+
+Start with our foundational training sessions designed to help you understand and effectively use large language models (LLMs). These sessions are ideal for beginners and cover the basics of LLM capabilities and applications. View our basic training offerings on [our Training page](https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-training).
+
+##### Custom Workshops for Researchers, Students, and Tutors
+
+We have experience delivering [tailored workshops](https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-training#/Custom%20workshops) for students and tutors in colleges and departments, covering topics like effective and responsible use of AI tools and discussions around academic integrity. We’re also happy to adapt these sessions for researchers, incorporating space for discussions on academic integrity, ethics, or other topics relevant to your work. Contact us to arrange a session or discuss your specific needs in our [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkcRi-eOrAFROiMNKcaPnnnlUMVVLMFlQSlRIRzdEQVpKU0s2MUpHUVhCTS4u).
+
+##### Scaling LLM Experiments
+
+Interested in taking your LLM experiments to the next level? We are planning to set up workshops on advanced topics, such as scaling experiments with API access, agent frameworks, and robust methodologies for research. If you’d like to participate or provide input on these sessions, please get in touch via our [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkcRi-eOrAFROiMNKcaPnnnlUMVVLMFlQSlRIRzdEQVpKU0s2MUpHUVhCTS4u).
+
+##### OxRSE Training Resources
+
+The Oxford Research Software Engineering (OxRSE) team offers a range of training resources, with plans to expand their offerings to include ML-specific courses. Stay updated on their training programs on the [OxRSE Training page](https://train.rse.ox.ac.uk/).
+
+##### Cloud Computing for Research Competency Centre Courses
+
+Get started with cloud resources through courses offered by the Cloud Computing for Research Competency Centre. These sessions are particularly relevant for researchers planning to use cloud platforms for machine learning projects. Find more information on the Competency Centre and their training options on the [Cloud Computing for Research page](https://staff.admin.ox.ac.uk/digital/services/competency-centres/cloud-computing-for-research).
+
+[Back to top](#Table%20of%20contents) 
+
+Project Support We Offer
+------------------------
+
+AI has the potential to transform research across a wide range of disciplines. We are here to support researchers at every stage, whether you're exploring initial ideas or implementing advanced solutions. Below are just a few ways AI can make an impact in research:
+
+##### Data Analysis and Pattern Recognition
+
+AI excels at processing large volumes of structured or unstructured data, uncovering patterns and insights that might otherwise go unnoticed. This is particularly valuable in data-intensive fields like **genomics**, **social sciences**, and **climate research**.
+
+##### Predictive Modelling and Forecasting
+
+Machine learning (ML) models can predict outcomes or trends based on historical data, making it a powerful tool in fields such as **economics**, **epidemiology**, and **environmental science**. These models can inform decision-making, guide experimental design, and forecast future trends.
+
+##### Natural Language Processing (NLP)
+
+NLP tools can analyse and interpret textual data, supporting disciplines like **history**, **law**, and **literature**. Tasks such as document summarization, translation, sentiment analysis, and information extraction from complex texts can be streamlined with AI.
+
+##### Image and Video Analysis
+
+AI-powered tools can analyse visual data, from medical imaging and satellite photography to historical artifacts and environmental monitoring. This is especially useful in fields like **medicine**, **archaeology**, and **ecology**.
+
+### How We Can Help You Along the Way
+
+We understand that starting with AI in research can be daunting. Here are some ways we can support you:
+
+* **Exploring AI for Your Work**: If you're curious about how LLMs or AI might support your research but aren't sure where to begin, check out our workshops or reach out to discuss a custom session tailored to your needs.
+* **Starting from an Idea**: Have a few ideas for using AI in your research but don't know where to start? Get in touch! We can discuss your goals and point you toward helpful resources.
+* **Understanding ML in Your Field**: Found an exciting paper in your field that uses ML, but struggling with the technical details? We'd be happy to help explain the techniques or recommend learning resources to bridge the gap.
+* **Building on Existing Work**: Have a research idea inspired by an ML-based paper but unsure how to implement it? Our Research Software Engineers can support your team with ML implementations and recommend or provide training as needed.
+* **Uncertain About AI's Role in Your Research?** Not sure if your question fits into these categories? Let’s have a quick chat to explore your ideas and find the best way forward.
+
+We’re here to help you use AI for impactful research—whatever your starting point. Reach out to us through our [expression of interest form](https://forms.office.com/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPkcRi-eOrAFROiMNKcaPnnnlUMVVLMFlQSlRIRzdEQVpKU0s2MUpHUVhCTS4u).
+
+[Back to top](#Table%20of%20contents) 
+
+Other networks that might be of interest
+----------------------------------------
+
+Oxford and its wider community host a variety of programs and networks that explore the transformative potential of AI in research and education. Below, we highlight some initiatives that may be of interest to researchers. This list is not exhaustive, and we’re happy to include additional programs—please get in touch if you’d like to recommend one.
+
+The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship Program at Oxford is part of an international initiative to enhance the use of AI in STEM fields. This program offers up to 55 postdoctoral fellowships over six years, providing researchers with the tools and training to apply AI techniques to disciplines such as engineering and the natural and mathematical sciences. Fellows gain access to mentoring, cohort learning, and opportunities to pursue independent research.
+
+Reuben College emphasizes the interdisciplinary applications of AI and machine learning in areas such as clinical decision-making, medical imaging, and climate modeling. The College fosters collaboration through symposia, workshops, and seminars, promoting engagement with ethical and social implications of AI.
+
+Hosted by Wolfson College, OxfordXML is a cross-disciplinary machine learning community promoting collaboration across fields like physics, healthcare, and finance. It provides a platform for researchers to share knowledge through hybrid talks and workshops, exploring the transformative impact of ML.
+
+The Visual Geometry Group at Oxford conducts cutting-edge research in areas such as sign language recognition, self-supervised learning, audio-visual learning, and medical imaging. Their projects explore applications from sign language video analysis to visual-piano transcription and beyond. VGG’s work bridges fundamental AI development and applied innovations across diverse fields.
+
+The Oxford AI Society (OxAI) is a student-led organization dedicated to advancing interdisciplinary AI education and innovation. Through workshops, events, and global collaborations, OxAI supports learning, networking, and AI project development while emphasizing diversity and societal impact.
+
+The University of Oxford’s “AI at Oxford” initiative highlights the University’s interdisciplinary research and resources in AI. It showcases collaborations across departments and industry, addressing ethical considerations and offering educational opportunities for researchers and students.
+
+The Bodleian Library provides resources to help students use generative AI tools ethically and effectively in their studies. These include practical tips for academic tasks like reading, writing, and presentations while emphasizing critical thinking and academic integrity.
+
+[Back to top](#Table%20of%20contents)
+
+---
+./2025-05-02-ai-and-ml-competency-centre-staff.md
+---
+---
+title: "AI and ML Competency Centre, Staff"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-staff
+---
+### Kelly Webb-Davies
+
+Kelly is a **Lead Business Technologist** at the Centre and her academic background is in linguistics, with degrees from the University of Western Australia and the University of Melbourne. Before joining Oxford, she lectured on phonetics and phonology at the University of Bangor and was a Trinity DipTESOL-qualified English for Academic Purposes tutor and Technology Enhanced Learning and Language Lead at Bangor University International College, where working with international students and responding to their specific needs informed her practice of integrating AI productively to assist with their academic and linguistic proficiency.
+
+Her focus is thoughtfully integrating AI into higher education in ways that enhance communication, reduce bias, and expand access to knowledge. She is particularly interested in how AI can be used to address the unique challenges of groups facing linguistic barriers and neurodivergence, creating more inclusive and accessible educational environments. She advocates for a balanced approach that maintains human involvement and fosters critical thinking alongside AI implementation and her work explores innovative ways to incorporate this philosophy into pedagogical and assessment design, ensuring that AI tools complement and enrich education.
+
+You can read more about what Kelly, and our other Business Technologists, get up to in [Kelly's staff profile featured in AAD News](https://unioxfordnexus.sharepoint.com/:u:/r/sites/ADMN-AADNewsAlert/SitePages/Kelly-Webb-Davies.aspx?csf=1&web=1&e=Spq4J4).
+
+---
+./2025-05-02-ai-and-ml-competency-centre-training.md
+---
+---
+title: "AI and ML Competency Centre, Training"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-training
+---
+The AI and ML Competency Centre offers training that university members can join at any level of expertise, guiding them through a journey to build confidence in understanding the capabilities and limitations of AI systems, and in selecting the most effective tools for tasks in their practice. We do this through workshops that anybody at the University can join and we also offer custom training to departments and colleges aimed at teachers, students and administrators. Our aim is to ensure sustainable learning, enabling participants to become autonomous, self-directed users of the technology who can also share their knowledge with others through, for example, [communities of practice](https://pod.admin.ox.ac.uk/communities-of-practice).
+
+#### Table of contents:
+
+[Workshops and webinars](#Workshops%20and%20webinars)
+
+[AI SIG Live](#AISIG)
+
+[Custom Workshops](#Custom%20workshops)
+
+[Other training](#Other%20trainings)
+
+Workshops and webinars
+----------------------
+
+For Trinity term 2025, we are offering sessions that are designed for a broad audience who may be unfamiliar with AI or would like to learn more about the field in general.
+
+The list below shows upcoming trainings from all the Competency Centres, including the AI and ML Competency Centre:
+
+*If the below widget is not appearing, please reload the page via this link:* [AI and ML Competency Centre, Training](https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-training)
+
+#### 
+
+#### 
+
+#### AI Special Interest Group Live: Community discussions
+
+A series of open discussions, led by a member of the AI Competency Centre, in the [AI Special Interest Group](https://teams.microsoft.com/l/channel/19%3Aba5ea0bdb72a42a9b4c19f02954fa5a5%40thread.tacv2/%F0%9F%8E%A4%20AI%20SIG%20Live?groupId=42f1f158-df5c-4bba-92ee-bc64193c3d7c) Teams live channel.
+
+[Back to top](#Top%20of%20page)
+
+Custom workshops
+----------------
+
+We offer **AI training sessions to colleges and departments** during term time, which can be tailored for students to learn how to apply AI practically in their studies, as well as for tutors and support staff who may want to explore the range of available tools. These sessions are best conducted in person and typically last between 1 to 1.5 hours. If you are interested, please give us more details through our [custom training enquiry form](https://forms.office.com/e/gcsBFZgFf5) - due to resource limitation we can only offer these workshops to groups of more than 10 people. We have already delivered similar workshops to St John’s and St Cross Colleges or in departments like the medical school or law.
+
+[Back to top](#Top%20of%20page)
+
+Other training
+--------------
+
+Explore other training available across Oxford and beyond to develop your skills with AI:
+
+| Title | When | What you could learn | Audience |  |
+| --- | --- | --- | --- | --- |
+| [OpenAI Academy](https://academy.openai.com/) | Self-serve | Unlock the opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively. | Open to all |  |
+| [Microsoft Enterprise Skills Initiative](https://esi.microsoft.com/) | Self-serve | Microsoft funded and delivered virtual classes and available to everybody in the organisation. Sharpen your technical skills and knowledge of Microsoft solutions by enrolling in interactive courses and training designed for your role, and advance your career by getting certified. | Open to all |  |
+| [Microsoft Copilot: Bookable time to try AI](https://skills.it.ox.ac.uk/whats-on#/course/OXFORDXU4U/WS001) | Thurs 01 May, 15:00 - 16:30  Thurs 29 May, 15:00 - 16:30 | Curious about AI, need assistance with a project, or just want to see how Microsoft Co-Pilot can help with creative writing, brainstorming, coding, and more, this session is for you! | Open to all |  |
+| [ChatGPT: Bookable time to try AI](https://skills.it.ox.ac.uk/whats-on#/course/OXFORDXU4U/WS002) | Thurs 01 May, 10:30 - 12:00  Tues 13 May, 15:00 – 16:30  Thurs 29 May, 10:30 - 12:00 | Join us for this chance to try out ChatGPT first-hand - explore the capabilities of OpenAI's advanced language model. | Open to all |  |
+
+[Back to top](#Top%20of%20page)
+
+---
+./2025-05-02-buying-generative-ai-licences.md
+---
+---
+title: "Buying Generative AI Licences"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/buying-generative-ai-licences
+---
+If you are currently paying for ChatGPT Plus or Teams individually, we strongly recommend you consider switching to ChatGPT Edu. Transitioning to the Edu licence will provide better value, stronger privacy protections, and access to features designed specifically for academic environments. The University-managed licence also ensures compliance with institutional data policies.
+
+By using ChatGPT Edu instead of free or individually purchased versions, University of Oxford **staff can confidently use ChatGPT for their academic and administrative work** while maintaining appropriate data protection standards.
+
+### Reasons to switch to ChatGPT Edu:
+
+* **Saving money.** We are offering a ChatGPT Edu licence at a reduced rate. It is cheaper than a Plus or Teams licence.
+* **Better security.** You can **access ChatGPT Edu via your SSO,** which gives you more security and convenience than either the Plus or Teams licence.
+* **Share your GPTs and chats** privately with others in the Oxford workspace or with the whole Oxford workspace all at once.
+* **Enhanced data protection:** Unlike the free and Plus versions (where you have to manually opt out of allowing your data to be used to train OpenAI’s data models), data you input into ChatGPT Edu is not shared to train OpenAI's models by default. This means you maintain full ownership of all your inputs and outputs, which is important when working with research data or sensitive university information.
+* **Security assessment.** Only ChatGPT Edu is covered by InfoSec’s third-party security assessment (TPSA). This is the same security assessment that covers all use of Microsoft 365 across the University. If you feel secure uploading files to Sharepoint, you should feel at ease uploading your files to ChatGPT Edu.
+
+### Things to bear in mind:
+
+* There is **no export option** of your data if you are using in ChatGPT Edu (this is also the case for the Teams licence, but Plus or Free accounts however do allow data export).
+* Occasionally, **some new features and models are released on a delay** to ChatGPT Edu to allow for review or compliance. This is usually about a week or so later but occasionally longer.
+
+### Migrating your existing data:
+
+You can only automatically merge your chat history from a Free or Plus account if you used your SSO ([abcd1234@ox.ac.uk](mailto:abcd1234@ox.ac.uk)) as your user name/email for that ChatGPT account. You will be given an option to migrate on sign up.
+
+If, on the other hand, you used any other email (for example [first.last@dept.ox.ac.uk](mailto:first.last@dept.ox.ac.uk)) to sign up, you will get a new account under your SSO with ChatGPT Edu and your existing account will remain available in parallel with the new one. If you stop paying for the Plus account, your history will remain available to you. You can also export your data for your records and delete the old account (note, this data cannot be imported in ChatGPT Edu).
+
+Existing ChatGPT Teams accounts cannot merge into the Edu workspace and do not allow data export or access after you stop the subscription. Those accounts would have to close and you would lose your history.
+
+### How would it work?
+
+If you choose to join us in the University of Oxford's ChatGPT Edu workspace, you will be added by OpenAI and receive an email to prompt you to join your new Edu workspace. This will create a new account or ask you to transfer your history. If you were paying for your subscription and your account migrates as part of the sign up, you will automatically receive a pro rata refund.
+
+### How do I switch?
+
+If you would like to join us in ChatGPT Edu, you simply need to fill in the relevant form (linked above) to initiate the process.
+
+---
+./2025-05-02-unlocking-ai-across-the-university.md
+---
+---
+title: "Unlocking AI across the University"
+date: 2025-05-02
+source: https://staff.admin.ox.ac.uk/article/unlocking-ai-across-the-university
+---
+The [AI and Machine Learning Competency Centre](https://staff.admin.ox.ac.uk/digital/services/competency-centres/ai-and-ml) has been conducting [customised workshops](https://staff.admin.ox.ac.uk/ai-and-ml-competency-centre-training#/Custom%20workshops) in colleges and departments to help staff and students access and apply AI tools in their work and studies. As AI becomes more prevalent, it is necessary to ensure that all members of the University can explore the use of these tools safely and ethically in accordance with guidelines.
+
+Lead Business Technologist Kelly Webb-Davies has been leading some of these workshops. One such example from Michaelmas term ’24 was the half-day Student AI Skills Induction workshop. Module leads from the Medical Sciences Division (MSD) organised this workshop for incoming master’s students to provide a general introduction to generative AI and its capabilities. The aim was to equip these students with a better understanding of AI as they enter their degrees and learn how to approach these tools effectively and responsibly.
+
+In her session, Kelly explained how to use generative AI responsibly, reminding students to use these tools cautiously and demonstrating their limitations as search engines or referencing tools. She used the analogy of identifying AI as ‘the stranger you spoke to at the pub’ to emphasise the need to fact-check answers given by AI and take everything it provides with a pinch of salt.
+
+The lecture wasn’t all doom and gloom though. Kelly also described AI as ‘The Intern’, ‘The Translator’, and ‘The Tutor’ to show how tools like ChatGPT can be used to check grammar, provide suggestions and perspectives, alter writing style, and even help to create quizzes or explain complex concepts. Kelly’s session was well received by students who said:
+
+> The information was very well targeted to the audience. It taught me instances that I can use AI and others that I should stay away from engaging with this tech.
+
+> I liked the clarity about how we can actually use AI for academic writing. It is helpful to have it acknowledged as a tool rather than not discussed, since it is such a prevalent system.
+
+This is just one example of the sessions run by the AI and ML Competency Centre. The team can also offer sessions introducing different AI tools and how best to apply these for more productive study, addressing strengths and limitations of each. Providing students with the platform to ask questions about AI and learn about how to apply tools responsibly in their studies is critical to unlocking the future of digital education. If you think members of your college or department could benefit from AI training, [contact the AI and ML Competency Centre](mailto:aimlsupportcentre@it.ox.ac.uk) to discuss your needs.
+
+---
